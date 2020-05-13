@@ -2,4 +2,4 @@
 
 Hello Git!
 
-this try of git commands
+first try of git commands
